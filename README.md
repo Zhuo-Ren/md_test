@@ -1,2 +1,2 @@
 # md_test
-![](q.png)
+![](./q.png)
